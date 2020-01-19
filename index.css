@@ -1,0 +1,8 @@
+.navTop{
+    display: flex;
+    background-color: cadetblue;
+    padding: 10px 10px 10px 0px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
